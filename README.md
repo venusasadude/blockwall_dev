@@ -9,6 +9,16 @@ It ingests a Neo4j Twitter dataset and provides:
 - A clean UI with **filtering**, **user detail pages**, and **mode-aware inputs**
 
 
+Short demo of Overview navigation.
+https://github.com/user-attachments/assets/cd994dee-9ad5-47ac-aa3c-b3b2e3e39f8d
+
+
+Short demo of Network navigation.
+https://github.com/user-attachments/assets/8975ae11-8eb6-4a48-8c96-397b996bbc54
+
+
+
+
 ## Tech Stack
 
 ### Backend

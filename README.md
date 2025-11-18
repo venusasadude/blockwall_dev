@@ -1,4 +1,5 @@
 # Blockwall Twitter Dashboard
+![output](https://github.com/user-attachments/assets/502ab050-2f34-407e-bcd6-b65769045d46)
 
 A full-stack application built for the Blockwall coding task.  
 It ingests a Neo4j Twitter dataset and provides:

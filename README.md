@@ -8,14 +8,9 @@ It ingests a Neo4j Twitter dataset and provides:
 - An interactive **2D force-directed network graph** exploring users, tweets, and hashtags  
 - A clean UI with **filtering**, **user detail pages**, and **mode-aware inputs**
 
+Demo:
 
-Short demo of Overview navigation.
-https://github.com/user-attachments/assets/cd994dee-9ad5-47ac-aa3c-b3b2e3e39f8d
-
-
-Short demo of Network navigation.
-https://github.com/user-attachments/assets/8975ae11-8eb6-4a48-8c96-397b996bbc54
-
+https://drive.google.com/file/d/1RWoreE3qOeSUHd4zEPcveK5ogWKm8Ppi/view?usp=sharing
 
 
 

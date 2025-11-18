@@ -13,7 +13,6 @@ Demo:
 https://drive.google.com/file/d/1RWoreE3qOeSUHd4zEPcveK5ogWKm8Ppi/view?usp=sharing
 
 
-
 ## Tech Stack
 
 ### Backend
@@ -293,6 +292,10 @@ On the frontend side (Next.js + MUI), the dashboard provides:
   - <img width="1101" height="715" alt="Screenshot 2025-11-18 at 11 52 36" src="https://github.com/user-attachments/assets/965545e2-f947-404f-807f-35f49c6d4244" />
   - Graph filtered by hashtag activity.
   - <img width="1109" height="720" alt="Screenshot 2025-11-18 at 11 53 30" src="https://github.com/user-attachments/assets/916f5c00-f1de-41dd-ae7d-180aceb0e2b1" />
+
+  Demo Hashtag mode:
+
+https://drive.google.com/file/d/1QekSfkVQCkienPnPDgGDBUJaWRn02AHf/view?usp=sharing
 
 - **User detail page** showing:
   - Profile info for the selected user

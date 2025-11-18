@@ -40,6 +40,7 @@ https://drive.google.com/file/d/1RWoreE3qOeSUHd4zEPcveK5ogWKm8Ppi/view?usp=shari
 - Neo4j ≥ 5.x  
 - Twitter v2 dataset imported from:  
   https://github.com/neo4j-graph-examples/twitter-v2
+  * I've myself used: twitter-v2-50.dump (https://github.com/neo4j-graph-examples/twitter-v2/blob/main/data/twitter-v2-50.dump)
 
 ---
 

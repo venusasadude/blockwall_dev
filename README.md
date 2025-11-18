@@ -277,14 +277,22 @@ This matches the structure produced by `getUserDetail` in `user.service.ts` (`Us
 On the frontend side (Next.js + MUI), the dashboard provides:
 
 - **Overview page** with totals, top users, and top hashtags
+- <img width="1207" height="648" alt="Screenshot 2025-11-18 at 11 50 51" src="https://github.com/user-attachments/assets/f368ea7c-7dc2-4189-a64f-45571cfcea67" />
+
 - **Network page** with:
   - Mode selector: *User network* vs *Hashtag network*
   - Inputs for `user`, `hashtag`, `minFollowers`, `limit`
   - An interactive force-directed graph powered by `react-force-graph-2d`
   - Auto-centering & zoom-to-fit on data or container size changes
+  - <img width="1101" height="715" alt="Screenshot 2025-11-18 at 11 52 36" src="https://github.com/user-attachments/assets/965545e2-f947-404f-807f-35f49c6d4244" />
+  - Graph filtered by hashtag activity.
+  - <img width="1109" height="720" alt="Screenshot 2025-11-18 at 11 53 30" src="https://github.com/user-attachments/assets/916f5c00-f1de-41dd-ae7d-180aceb0e2b1" />
+
 - **User detail page** showing:
   - Profile info for the selected user
   - Recent tweets with their hashtags
+  - <img width="1134" height="591" alt="Screenshot 2025-11-18 at 11 54 54" src="https://github.com/user-attachments/assets/0a68eaf8-ea4a-421c-a93f-459f35839b27" />
+
 
 ---
 
